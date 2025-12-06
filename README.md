@@ -71,7 +71,9 @@ Created relationships between:
 - Orders ↔ Customers  
 - Orders ↔ Restaurants  
 - Orders ↔ Riders  
-- Orders ↔ Delivery_Logs  
+- Orders ↔ Delivery_Logs
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a8dccc3b-af42-49b5-9e45-6858d9602413" />
 
 ### ✔ Advanced Excel Formulas
 Used formulas such as:
@@ -85,5 +87,5 @@ NETWORKDAYS
 IF, IFS
 TEXT functions (LEFT, RIGHT, TRIM)
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a8dccc3b-af42-49b5-9e45-6858d9602413" />
+
 
