@@ -2,8 +2,6 @@
 
 An end-to-end **Excel Analytics & Dashboard project** designed to showcase **advanced Excel skills** including Power Query, Data Modeling, PivotTables, KPI dashboards, campaign ROI analysis, scenario modeling, and automated refresh macros.
 
-This project is perfect for Data Analyst portfolios and demonstrates real-world business problem solving.
-
 ---
 
 ## 📌 Project Overview
@@ -36,6 +34,7 @@ Restaurant metadata including cuisine types and onboarding dates.
 
 ### 3. `Riders`
 Delivery agent information.
+
 <img width="610" height="203" alt="image" src="https://github.com/user-attachments/assets/2716b051-8054-4540-91ea-0bb9ef638e1c" />
 
 
@@ -58,7 +57,7 @@ All data was transformed and cleaned using **Power Query** and stored as **Excel
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 ### ✔ Data Cleaning (Power Query)
 - Standardized date formats & text cases  
@@ -86,4 +85,5 @@ NETWORKDAYS
 IF, IFS
 TEXT functions (LEFT, RIGHT, TRIM)
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a8dccc3b-af42-49b5-9e45-6858d9602413" />
 
